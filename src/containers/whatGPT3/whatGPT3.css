@@ -5,7 +5,7 @@
     padding: 3rem;
     background: var(--color-footer);
 
-    background: radial-gradient(circle, #0c1c6f, #061d6b, #031e66, #011f62, #001f5d, #001f61, #002065, #002069, #002076, #001f84, #001d90, #00199d);
+    background-image: radial-gradient(circle, #0d1f7c, #062075, #02206f, #002068, #002061, #002064, #002066, #002069, #002076, #001f84, #001d90, #00199d);
 
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
